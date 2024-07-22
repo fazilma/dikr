@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dikr/static/css/main.f68c9830.chunk.css",
-    "main.js": "/dikr/static/js/main.6d4a6708.chunk.js",
-    "main.js.map": "/dikr/static/js/main.6d4a6708.chunk.js.map",
+    "main.js": "/dikr/static/js/main.bd835b34.chunk.js",
+    "main.js.map": "/dikr/static/js/main.bd835b34.chunk.js.map",
     "runtime-main.js": "/dikr/static/js/runtime-main.b26c6695.js",
     "runtime-main.js.map": "/dikr/static/js/runtime-main.b26c6695.js.map",
     "static/js/2.60b28956.chunk.js": "/dikr/static/js/2.60b28956.chunk.js",
     "static/js/2.60b28956.chunk.js.map": "/dikr/static/js/2.60b28956.chunk.js.map",
     "index.html": "/dikr/index.html",
-    "precache-manifest.67b4a31b04d9c5b138d12a89a4812569.js": "/dikr/precache-manifest.67b4a31b04d9c5b138d12a89a4812569.js",
+    "precache-manifest.77ed6712eba92f46043ceb72c3996308.js": "/dikr/precache-manifest.77ed6712eba92f46043ceb72c3996308.js",
     "service-worker.js": "/dikr/service-worker.js",
     "static/css/main.f68c9830.chunk.css.map": "/dikr/static/css/main.f68c9830.chunk.css.map",
     "static/js/2.60b28956.chunk.js.LICENSE.txt": "/dikr/static/js/2.60b28956.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b26c6695.js",
     "static/js/2.60b28956.chunk.js",
     "static/css/main.f68c9830.chunk.css",
-    "static/js/main.6d4a6708.chunk.js"
+    "static/js/main.bd835b34.chunk.js"
   ]
 }
